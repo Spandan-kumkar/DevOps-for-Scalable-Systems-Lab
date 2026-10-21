@@ -98,6 +98,4 @@ Add screenshots demonstrating:
 - Running container and port mapping.
 - Application running in the browser.
 - Container logs and lifecycle operations.
-
-## Repository
-[Student Task Manager GitHub Repository](<YOUR-GITHUB-REPOSITORY-URL>)
+  
