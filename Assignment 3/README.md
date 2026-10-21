@@ -57,5 +57,4 @@ Add screenshots demonstrating:
 - Successful Jenkins build.
 - Jenkins console output.
 
-## Repository
-[Student Task Manager GitHub Repository](<YOUR-GITHUB-REPOSITORY-URL>)
+
