@@ -102,5 +102,4 @@ Add screenshots demonstrating:
 - Pod deletion and automatic recreation.
 - Application Pod logs.
 
-## Repository
-[Student Task Manager GitHub Repository](<YOUR-GITHUB-REPOSITORY-URL>)
+
